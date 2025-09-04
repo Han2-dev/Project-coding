@@ -1,7 +1,8 @@
 import sys
 from rich import print
 from time import sleep
-
+# DI ANTARA KU DAN RONI DI ANTARA KU DAN RONI
+# CUMA RONI TAK ADA YANG LAIN
 def printLyrics():
     lines = [
         ("I wanna da-", 0.06),
@@ -33,6 +34,7 @@ def printLyrics():
             sleep(char_delay)
         print()
         sleep(delays[i])
+
 
 
 printLyrics()
