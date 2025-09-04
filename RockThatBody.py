@@ -35,4 +35,6 @@ def printLyrics():
         sleep(delays[i])
 
 
+
 printLyrics()
+
